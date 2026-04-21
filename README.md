@@ -15,14 +15,14 @@ Lombok
 ✅ Dependencies
 
 Add in pom.xml:
-
-spring-boot-starter-web
-spring-boot-starter-data-jpa
-spring-boot-starter-security
-mysql-connector-j
-lombok
-spring-boot-starter-validation
-spring-boot-starter-test
+---------------
+spring-boot-starter-web.
+spring-boot-starter-data-jpa.
+spring-boot-starter-security.
+mysql-connector-j.
+lombok.
+spring-boot-starter-validation.
+spring-boot-starter-test.
 -------------------------------------------------
 🏗️ PHASE 2: Database Design (VERY IMPORTANT)
 
